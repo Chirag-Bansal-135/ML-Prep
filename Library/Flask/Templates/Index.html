@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Home</title>
+    </html>
+    <body>
+        <h1>Home Page!!!</h1>
+        {% for x in content%}
+            <p>{{x}}</p>
+        {%endfor%}
+        {% for x in range(10) %}
+            {% if x%2 == 1 %}
+                <p>{{x}}<p/>
+                <p> Heloo </p>
+            {%endif%}
+        {%endfor%}
+    </body>
+</html>
