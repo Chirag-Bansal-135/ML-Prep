@@ -1,0 +1,59 @@
+ 
+
+
+/* Outline
+h1{
+    outline-style: dashed;
+    border: solid;
+} */
+
+
+/* Border and Padding
+h1{
+    border: 5px solid #4e0505;
+    border-radius: 5px;
+    padding: 10px;
+} */
+
+
+/* Margins
+h1{
+    margin: 50px 50px 50px 50px;
+}
+b{
+    margin-top: 100px;
+}
+p{
+    margin-top: inherit;
+} */
+
+
+/* Changes the background color of body 
+body {
+    background-color: green;
+}
+Change background image and position
+body {
+    background-image: url("photo_2023-01-01_13-18-15.jpg");
+    background-position: top right;
+    opacity: 0.5
+}
+h1, p{
+    color: white
+} */
+
+
+
+/* Selectors in CSS
+.cls1 {
+    color: blue;
+}
+#id1 {
+    color: red
+}
+* {
+    color: purple
+}
+h1, p {
+    color: green
+} */
