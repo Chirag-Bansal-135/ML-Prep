@@ -1,4 +1,114 @@
- 
+
+
+
+/* Created a dropdown button */
+/* .dropdownbutton{
+    background-color: blue;
+    color: white;
+    padding: 13px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown{
+    position: absolute;
+    display: inline-block;
+}
+
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    background-color: rgb(31, 162, 206);
+    min-width: 150px;
+
+}
+
+.dropdown-menu a{
+    color:black;
+    padding: 11px 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-menu a:hover{
+    background-color: white;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.dropdown:hover .dropdownbutton{
+    background-color: grey;
+} */
+
+/* Descended Selector
+h1 b{
+    color: red
+} */
+/* Child Selector
+h1 > b{
+    color: red;
+} */
+/* Adajacent Sibling Selector
+h1 + b{
+    color: red;
+} */
+/* Some Selector, I don't know
+h1 ~ b{
+    color: red;
+} */
+
+
+/* display, visibility
+table, th, td{
+    display: none;
+      
+}
+table, th, td{
+    visibility: hidden;
+} */
+
+
+
+/* Table Transform
+table, th, td{
+    border: 2px solid;
+    width: 50%;
+    border-collapse: collapse;
+}
+td, th{
+    text-align: center;
+    padding: 10px;
+}
+tr:hover{
+    background-color: lightblue;
+} */
+
+
+/* Fonts
+h1, p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-size: xx-large;
+} */
+
+
+/* tranform Text
+h1{
+    text-decoration: overline red dashed 9px;
+    text-transform: uppercase;
+    text-indent: 30px;
+    letter-spacing: 9px;
+} */
+
+
+/* Alignment
+h1{
+    text-align: center;
+ } */
 
 
 /* Outline
